@@ -7,7 +7,8 @@ Manage Your Hostel
 - `npm install`
 
 ### Install Frontend Dependencies
-- `npm run client-install`
+- `cd client`
+- `npm install`
 
 ### Setup up dev_keys for database
 - Either run local MongoServer or,
